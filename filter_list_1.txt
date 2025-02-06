@@ -1,5 +1,5 @@
 ! Title: Epsilon VPN White List
-! Version: 1.31
+! Version: 1.32
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 @@||torproject.org^$important
@@ -17,3 +17,4 @@
 @@||lomont.site^$important
 @@||epsilonvpn.ru^$important
 @@||hyperosupdates.com^$important
+@@||alloha.blokino.red^$important
