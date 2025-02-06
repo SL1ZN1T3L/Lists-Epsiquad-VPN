@@ -1,6 +1,6 @@
 !
 ! Title: Epsilon VPN White List
-! Version: 1.1
+! Version: 1.2
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 ! Last modified: 2025-02-05T06:08:01.341Z
 !
@@ -9,7 +9,7 @@
 @@||torproject.org^$important
 @@||www.qbittorrent.org^$important
 @@||login.web.money^$important
-@@||echips-pc.ru/^$important
+@@||echips-pc.ru^$important
 @@||massgrave.dev^$important
 @@||exchanger.money^$important
 @@||areskernel.site^$important
