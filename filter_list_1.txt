@@ -19,3 +19,4 @@
 @@||alloha.blokino.red^$important
 @@||pornhub.com^$important
 @@||1.1.1.1^$important
+@@||timeweb.cloud^$important
