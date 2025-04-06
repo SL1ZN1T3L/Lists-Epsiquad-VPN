@@ -1,5 +1,5 @@
 ! Title: Epsilon VPN White List
-! Version: 1.35
+! Version: 1.36
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 @@||torproject.org^$important
 @@||www.qbittorrent.org^$important
@@ -20,3 +20,6 @@
 @@||pornhub.com^$important
 @@||1.1.1.1^$important
 @@||timeweb.cloud^$important
+@@||api.telegram.org^$important
+@@||cloudflare.com^$important
+@@||^$important
