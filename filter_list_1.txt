@@ -1,5 +1,5 @@
 ! Title: Epsilon VPN White List
-! Version: 1.46
+! Version: 1.47
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 @@||torproject.org^$important
 @@||www.qbittorrent.org^$important
@@ -33,18 +33,13 @@
 @@||www.lostfilm.download^$important
 @@||adultmult.club^$important
 @@||looktoon.lol^$important
-@@||looktoon.lol^$important
 @@||tvcool.lol^$important
 @@||cs.money^$important
 @@||github.com^$important
 @@||vscode.dev^$important
 @@||github.dev^$important
 @@||one.one.one.one^$important
-@@||^$important
-@@||^$important
-@@||^$important
-@@||^$important
-@@||^$important
+@@||nnmstatic.win^$important
 @@||^$important
 @@||^$important
 @@||^$important
