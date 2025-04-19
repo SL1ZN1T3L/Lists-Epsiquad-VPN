@@ -1,5 +1,5 @@
 ! Title: Epsilon VPN White List
-! Version: 1.49
+! Version: 1.50
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 @@||torproject.org^$important
 @@||www.qbittorrent.org^$important
@@ -43,7 +43,7 @@
 @@||sheldon.newplayjj.com^$important
 @@||video-ik-ok-ii.wiki^$important
 @@||kodik.biz^$important
-@@||^$important
+@@||aniqit.com^$important
 @@||^$important
 @@||^$important
 @@||^$important
