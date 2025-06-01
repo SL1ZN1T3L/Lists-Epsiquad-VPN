@@ -54,7 +54,7 @@
 @@||mobile.events.data.microsoft.com^$important
 @@||ru.savefrom.net^$important
 @@||s-patches.su^$important
-@@||^$important
+@@||ya.cc^$important
 @@||^$important
 @@||^$important
 @@||^$important
