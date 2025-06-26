@@ -1,5 +1,5 @@
 ! Title: Epsilon VPN White List
-! Version: 1.59
+! Version: 1.60
 ! Homepage: https://github.com/SL1ZN1T3L/WhiteList-Epsilon-VPN
 @@||torproject.org^$important
 @@||www.qbittorrent.org^$important
@@ -60,5 +60,8 @@
 @@||blokino.net^$important
 @@||sirus.su^$important
 @@||repository.su^$important
+@@||plati.market^$important
+@@||digiseller.mycdn.ink^$important
+@@||api.digiseller.ru^$important
 @@||^$important
 @@||^$important
