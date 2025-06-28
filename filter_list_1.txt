@@ -63,5 +63,6 @@
 @@||digiseller.mycdn.ink^$important
 @@||api.digiseller.ru^$important
 @@||gpay.market^$important
+@@||forum.radmir.games^$important
 @@||^$important
 @@||^$important
