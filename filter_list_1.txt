@@ -66,5 +66,6 @@
 @@||api.digiseller.ru^$important
 @@||gpay.market^$important
 @@||forum.radmir.games^$important
+@@||pwn.college^$important
 @@||^$important
 @@||^$important
