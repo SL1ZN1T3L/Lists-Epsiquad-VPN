@@ -11,6 +11,8 @@
 @@||technical.city^$important
 @@||semtools.guru^$important
 @@||jut.su^$important
+@@||animefox.cc^$important
+@@||downdetector.su^$important
 @@||aniqit.com^$important
 @@||lomont.site^$important
 @@||epsilonvpn.ru^$important
