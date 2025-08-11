@@ -67,5 +67,8 @@
 @@||gpay.market^$important
 @@||forum.radmir.games^$important
 @@||pwn.college^$important
+@@||googleapis.com^$important
+@@||app-measurement.com^$important
+@@||epsiquad.com^$important
 @@||^$important
 @@||^$important
