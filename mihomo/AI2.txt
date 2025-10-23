@@ -1,621 +1,214 @@
-# Полный список AI доменов для Mihomo конфига
-# Обновлено: Октябрь 2025
-
-## ОСНОВНЫЕ ЧАТБОТЫ И АССИСТЕНТЫ
-
-# OpenAI / ChatGPT
-openai.com
-chat.openai.com
-chatgpt.com
-api.openai.com
-platform.openai.com
-
-# Anthropic / Claude
-anthropic.com
-claude.ai
-console.anthropic.com
-
-# Google Gemini
-gemini.google.com
+3dfy.ai
+about.sourcegraph.com
 ai.google.dev
+ai.meta.com
+ai21.com
 aistudio.google.com
-makersuite.google.com
+aiva.ai
+alphafold.ebi.ac.uk
+ampermusic.com
+andisearch.com
+anthropic.com
+anyscale.com
+anyword.com
+api.elevenlabs.io
+api.openai.com
+api.together.xyz
+app.leonardo.ai
+app.runwayml.com
+app.suno.ai
+artbreeder.com
+askyourpdf.com
+autodraw.com
+aws.amazon.com/codewhisperer
 bard.google.com
-
-# Microsoft Copilot
-copilot.microsoft.com
+bardeen.ai
+beatoven.ai
+beautiful.ai
+beta.character.ai
 bing.com/chat
-www.bing.com
-
-# Perplexity AI
-perplexity.ai
-www.perplexity.ai
-
-# xAI / Grok
-x.ai
+bing.com/create
+biogpt.com
+bolt.new
+boomy.com
+canva.com
+character.ai
+chat.deepseek.com
+chat.mistral.ai
+chat.openai.com
+chatdoc.com
+chatgpt.com
+chatpdf.com
+claude.ai
+cleanup.pictures
+clickup.com
+clipchamp.com
+codeium.com
+cohere.ai
+cohere.com
+colormind.io
+connectedpapers.com
+consensus.app
+console.anthropic.com
+console.mistral.ai
+contentbot.ai
+copilot.github.com
+copilot.microsoft.com
+copy.ai
+craiyon.com
+creator.nightcafe.studio
+csm.ai
+cursor.com
+cursor.sh
+datarobot.com
+decktopus.com
+deepmind.google
+deepseek.com
+descript.com
+designs.ai
+d-id.com
+discord.gg/midjourney
+dreamstudio.ai
+dreamup.com
+elevenlabs.com
+elevenlabs.io
+elicit.com
+elicit.org
+exa.ai
+fabric.microsoft.com
+fal.ai
+figma.com
+filmora.wondershare.com
+firefly.adobe.com
+fliki.ai
+flux.ai
+fontjoy.com
+fotor.com
+framer.com
+freepik.com
+gamma.app
+gemini.google.com
+gen.runwayml.com
+get.mem.ai
+github.com/features/copilot
+gptengineer.app
+grammarly.com
 grok.com
 grok.x.ai
-
-# DeepSeek (китайский AI)
-deepseek.com
-chat.deepseek.com
-
-# Mistral AI
-mistral.ai
-chat.mistral.ai
-console.mistral.ai
-
-# Meta AI
-meta.ai
-ai.meta.com
-
-# Character.AI
-character.ai
-beta.character.ai
-
-
-## AI CODING ASSISTANTS / IDE
-
-# Cursor
-cursor.sh
-cursor.com
-
-# Windsurf (Codeium)
-codeium.com
-windsurf.com
-windsurf.ai
-
-# GitHub Copilot
-github.com/features/copilot
-copilot.github.com
-
-# Replit
-replit.com
-repl.it
-
-# Tabnine
-tabnine.com
-
-# Amazon CodeWhisperer
-aws.amazon.com/codewhisperer
-
-# Sourcegraph Cody
-sourcegraph.com
-about.sourcegraph.com
-
-# Lovable (ex GPT Engineer)
+hemingwayapp.com
+heygen.com
+huggingface.co
+humata.ai
+ideogram.ai
+imagen.research.google
+invideo.io
+jasper.ai
+julius.ai
+kaedim3d.com
+kapwing.com
+khroma.co
+komo.ai
+labs.openai.com
+leonardo.ai
+letsenhance.io
+lexica.art
 lovable.dev
-gptengineer.app
-
-# Bolt.new
-bolt.new
-
-# v0 by Vercel
-v0.dev
-
-# Pieces for Developers
-pieces.app
-
-
-## PRODUCTIVITY & DOCUMENTS
-
-# Notion AI
-notion.so
-notion.com
-
-# NotebookLM (Google)
+luma.ai
+lumalabs.ai
+lumen5.com
+make.com
+makersuite.google.com
+mem.ai
+meshy.ai
+meta.ai
+metaphor.systems
+midjourney.com
+mistral.ai
+modal.com
+mubert.com
+murf.ai
+n8n.io
+naturalreaders.com
+nightcafe.studio
 notebooklm.google
 notebooklm.google.com
-
-# Taskade
-taskade.com
-
-# ClickUp AI
-clickup.com
-
-# Mem
-mem.ai
-get.mem.ai
-
-# Reflect
-reflect.app
-
-# Mem.ai
-mem.ai
-
-
-## IMAGE GENERATION
-
-# Midjourney
-midjourney.com
-www.midjourney.com
-discord.gg/midjourney
-
-# DALL-E (OpenAI)
-labs.openai.com
-
-# Stable Diffusion
-stability.ai
-stabilityai.com
-dreamstudio.ai
-
-# Leonardo AI
-leonardo.ai
-app.leonardo.ai
-
-# Flux (Black Forest Labs)
-flux.ai
-fal.ai
-
-# Ideogram
-ideogram.ai
-
-# Adobe Firefly
-firefly.adobe.com
-
-# Bing Image Creator
-bing.com/create
-www.bing.com/images/create
-
-# Canva AI
-canva.com
-
-# Freepik AI
-freepik.com
-www.freepik.com
-
-# NightCafe
-nightcafe.studio
-creator.nightcafe.studio
-
-# Craiyon (ex DALL-E mini)
-craiyon.com
-
-# Artbreeder
-artbreeder.com
-
-# Playground AI
-playground.ai
-playgroundai.com
-
-# Lexica
-lexica.art
-
-# DreamUp (DeviantArt)
-dreamup.com
-
-# Recraft
-recraft.ai
-
-# Imagen (Google)
-imagen.research.google
-
-
-## VIDEO GENERATION & EDITING
-
-# Runway ML
-runwayml.com
-app.runwayml.com
-
-# Pika Labs
-pika.art
-pikalabs.ai
-
-# Luma AI / Dream Machine
-lumalabs.ai
-luma.ai
-
-# Sora (OpenAI)
-sora.com
+notion.com
+notion.so
+openai.com
+openai.com/research/musenet
 openai.com/sora
-
-# Synthesia
-synthesia.io
-
-# HeyGen
-heygen.com
-
-# D-ID
-d-id.com
-
-# Descript
-descript.com
-
-# Fliki
-fliki.ai
-
-# Invideo AI
-invideo.io
-
-# Pictory
-pictory.ai
-
-# Steve AI
-steve.ai
-
-# Opus Clip
 opus.pro
 opusclip.com
-
-# Kapwing
-kapwing.com
-
-# Clipchamp (Microsoft)
-clipchamp.com
-
-# Veed.io
-veed.io
-
-
-## MUSIC & AUDIO GENERATION
-
-# Suno AI
-suno.ai
-app.suno.ai
-
-# Udio
-udio.com
-
-# ElevenLabs
-elevenlabs.io
-api.elevenlabs.io
-
-# Mubert
-mubert.com
-
-# AIVA
-aiva.ai
-
-# Soundraw
-soundraw.io
-
-# Boomy
-boomy.com
-
-# Beatoven
-beatoven.ai
-
-# Soundful
-soundful.com
-
-# Amper Music
-ampermusic.com
-
-# MuseNet (OpenAI)
-openai.com/research/musenet
-
-
-## VOICE & SPEECH
-
-# ElevenLabs (дубль, но важно)
-elevenlabs.io
-elevenlabs.com
-
-# PlayHT
-play.ht
-playht.com
-
-# Murf AI
-murf.ai
-
-# Resemble AI
-resemble.ai
-
-# WellSaid Labs
-wellsaidlabs.com
-
-# Descript Overdub
-descript.com
-
-# Speechify
-speechify.com
-
-# Natural Reader
-naturalreaders.com
-
-
-## RESEARCH & KNOWLEDGE
-
-# Perplexity (дубль)
-perplexity.ai
-
-# Consensus
-consensus.app
-
-# Elicit
-elicit.org
-elicit.com
-
-# Semantic Scholar
-semanticscholar.org
-
-# Scite
-scite.ai
-
-# ResearchRabbit
-researchrabbit.ai
-
-# Connected Papers
-connectedpapers.com
-
-# You.com
-you.com
-
-
-## DESIGN & CREATIVE TOOLS
-
-# Figma AI
-figma.com
-
-# Uizard
-uizard.io
-
-# Galileo AI
-usegalileo.ai
-
-# Framer AI
-framer.com
-
-# Khroma
-khroma.co
-
-# Colormind
-colormind.io
-
-# Fontjoy
-fontjoy.com
-
-# AutoDraw (Google)
-autodraw.com
-
-# Remove.bg
-remove.bg
-
-# Cleanup.pictures
-cleanup.pictures
-
-# Palette.fm
 palette.fm
-
-
-## WRITING & CONTENT
-
-# Jasper AI
-jasper.ai
-
-# Copy.ai
-copy.ai
-
-# Writesonic
-writesonic.com
-
-# Rytr
-rytr.me
-
-# Anyword
-anyword.com
-
-# Peppertype
-peppertype.ai
-
-# ContentBot
-contentbot.ai
-
-# Wordtune
-wordtune.com
-
-# QuillBot
-quillbot.com
-
-# Grammarly
-grammarly.com
-
-# ProWritingAid
-prowritingaid.com
-
-# Hemingway Editor
-hemingwayapp.com
-
-
-## DATA & ANALYTICS
-
-# Julius AI
-julius.ai
-
-# Rows
-rows.com
-
-# Microsoft Fabric
-fabric.microsoft.com
-
-# Tableau AI
-tableau.com
-
-# ThoughtSpot
-thoughtspot.com
-
-# DataRobot
-datarobot.com
-
-
-## PRESENTATION & SLIDES
-
-# Gamma
-gamma.app
-
-# Beautiful.ai
-beautiful.ai
-
-# Tome
-tome.app
-
-# Decktopus
-decktopus.com
-
-# Slidebean
-slidebean.com
-
-# Presentations.AI
-presentations.ai
-
-
-## 3D & MODELING
-
-# Spline AI
-spline.design
-
-# Kaedim
-kaedim3d.com
-
-# Luma AI (3D)
-lumalabs.ai
-
-# Meshy
-meshy.ai
-
-# 3DFY
-3dfy.ai
-
-# CSM.ai
-csm.ai
-
-
-## BUSINESS & AUTOMATION
-
-# Zapier AI
-zapier.com
-
-# Make (Integromat)
-make.com
-
-# n8n
-n8n.io
-
-# Relevance AI
-relevanceai.com
-
-# Bardeen
-bardeen.ai
-
-
-## СПЕЦИАЛИЗИРОВАННЫЕ AI
-
-# HuggingFace
-huggingface.co
-
-# Replicate
-replicate.com
-
-# Cohere
-cohere.com
-cohere.ai
-
-# AI21 Labs
-ai21.com
-
-# Anthropic (API)
-console.anthropic.com
-
-# Together AI
-together.ai
-api.together.xyz
-
-# Anyscale
-anyscale.com
-
-# Modal
-modal.com
-
-
-## SEARCH & AGENTS
-
-# Phind
-phind.com
-
-# Komo
-komo.ai
-
-# Andi
-andisearch.com
-
-# Metaphor
-metaphor.systems
-
-# Exa
-exa.ai
-
-
-## HEALTHCARE & SCIENCE AI
-
-# AlphaFold
-alphafold.ebi.ac.uk
-
-# BioGPT
-biogpt.com
-
-# Med-PaLM
-deepmind.google
-
-
-## ДОПОЛНИТЕЛЬНЫЕ СЕРВИСЫ
-
-# Poe (доступ к разным AI)
-poe.com
-
-# ChatPDF
-chatpdf.com
-
-# PDF.ai
 pdf.ai
-
-# AskYourPDF
-askyourpdf.com
-
-# Humata
-humata.ai
-
-# ChatDOC
-chatdoc.com
-
-# Tome
-tome.app
-
-# Simplified
-simplified.com
-
-# Designs.ai
-designs.ai
-
-# Lumen5
-lumen5.com
-
-# Pictory
+peppertype.ai
+perplexity.ai
+phind.com
 pictory.ai
-
-# Synthesia
-synthesia.io
-
-# Wondershare Filmora
-filmora.wondershare.com
-
-# Topaz Labs
-topazlabs.com
-
-# Let's Enhance
-letsenhance.io
-
-# Upscayl
-upscayl.org
-
-# Gigapixel AI
-topazlabs.com/gigapixel-ai
-
-# Fotor
-fotor.com
-
-# Prisma
+pieces.app
+pika.art
+pikalabs.ai
+platform.openai.com
+play.ht
+playground.ai
+playgroundai.com
+playht.com
+poe.com
+presentations.ai
 prisma-ai.com
-
-# Runway Ge
-gen.runwayml.com
-# Последнее обновление: Октябрь 2025
+prowritingaid.com
+quillbot.com
+recraft.ai
+reflect.app
+relevanceai.com
+remove.bg
+repl.it
+replicate.com
+replit.com
+researchrabbit.ai
+resemble.ai
+rows.com
+runwayml.com
+rytr.me
+scite.ai
+semanticscholar.org
+simplified.com
+slidebean.com
+sora.com
+soundful.com
+soundraw.io
+sourcegraph.com
+speechify.com
+spline.design
+stability.ai
+stabilityai.com
+steve.ai
+suno.ai
+synthesia.io
+tableau.com
+tabnine.com
+taskade.com
+thoughtspot.com
+together.ai
+tome.app
+topazlabs.com
+topazlabs.com/gigapixel-ai
+udio.com
+uizard.io
+upscayl.org
+usegalileo.ai
+v0.dev
+veed.io
+wellsaidlabs.com
+windsurf.ai
+windsurf.com
+wordtune.com
+writesonic.com
+www.bing.com
+www.bing.com/images/create
+www.freepik.com
+www.midjourney.com
+www.perplexity.ai
+x.ai
+you.com
+zapier.com
