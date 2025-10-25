@@ -68,3 +68,7 @@ pwn.college
 googleapis.com
 app-measurement.com
 epsiquad.com
+ipwho.is
+api.ip.sb
+ipapi.co
+ipinfo.io
