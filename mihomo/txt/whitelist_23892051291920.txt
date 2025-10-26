@@ -58,6 +58,7 @@ semtools.guru
 sheldon.newplayjj.com
 sirus.su
 technical.city
+test.ru
 timeweb.cloud
 toil.cc
 torproject.org
