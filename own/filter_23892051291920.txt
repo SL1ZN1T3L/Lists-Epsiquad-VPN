@@ -72,3 +72,4 @@
 @@||api.ip.sb^$important
 @@||ipapi.co^$important
 @@||ipinfo.io^$important
+@@||test.ru^$important
