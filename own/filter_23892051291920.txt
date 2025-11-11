@@ -54,6 +54,7 @@
 @@||ru.savefrom.net^$important
 @@||s-patches.su^$important
 @@||ya.cc^$important
+@@||clck.ru^$important
 @@||digiseller.com^$important
 @@||blokino.red^$important
 @@||blokino.net^$important
