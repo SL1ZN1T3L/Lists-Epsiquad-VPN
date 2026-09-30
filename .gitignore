@@ -3,3 +3,6 @@
 mihomo-linux
 .*
 *.sh
+*.ps1
+/mihomi-bin
+__pycache__

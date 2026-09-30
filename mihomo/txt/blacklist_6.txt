@@ -1,3 +1,4 @@
+*watson.events.data.microsoft.com
 adproxy.ndmdhs.com
 arc.msn.com
 at.atwola.com
