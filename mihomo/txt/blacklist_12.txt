@@ -518,7 +518,6 @@
 23.229.68.47
 23.229.69.124
 23.229.70.48
-23.48.203.140
 23.81.64.183
 23.82.169.37
 23.82.169.38
@@ -7108,6 +7107,7 @@ knowingbrowse.com
 knowingdefenddefenceless.com
 ko04rf8.cfd
 kobemo.com
+koboldcpp.com
 kocusa.com
 kodiakproduce.com
 kokanbhumimitra.com
@@ -7891,6 +7891,7 @@ minusbillion.com
 minutelight-1.online
 minutesdistrustuldistrustul.com
 mip.api.mcafeewebadvisor.com
+mirappe.com
 miraralcielo.net
 miredindeed.net
 mirrorbid.com
@@ -9570,7 +9571,10 @@ recurso-informacion.com
 recurt.com
 red12flyw2.site
 redanemone.xyz
+redddit.com
 reddingjetboattours.com
+reddtit.com
+reddtt.com
 redefinelive.com
 redif.com
 redifd.com
@@ -9586,6 +9590,8 @@ redirectionaupost
 redirectlayerprotocol.com
 redirectme.net
 redirekted.com
+redit.com
+reditt.com
 redk-stron.site
 redk-strong.info
 redondobrewery.com
