@@ -1,4 +1,5 @@
 *watson.events.data.microsoft.com
+:
 adproxy.ndmdhs.com
 arc.msn.com
 at.atwola.com
@@ -13,3 +14,6 @@ receive-lp1.er.srv.nintendo.net
 sprofile-lp1.cdn.nintendo.net
 telemetry-cii.api.playstation.com
 telemetry-console.api.playstation.com
+telemetry.microsoft.com
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
