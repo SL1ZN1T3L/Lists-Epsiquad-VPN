@@ -186,7 +186,6 @@ adcell.de
 adcenter.net
 adclick.com
 adclient1.tucows.com
-adclixx.net
 adcolony.com
 adcomplete.com
 adconion.com
@@ -328,6 +327,7 @@ ads-img.mozilla.org
 ads-impressions.com
 ads-monitor.xyz
 ads-twitter.com
+ads.365.mk
 ads.5ci.lt
 ads.73dpi.com
 ads.aavv.com
@@ -413,7 +413,6 @@ ads.fool.com
 ads.footymad.net
 ads.forbes.net
 ads.formit.cz
-ads.fortunecity.com
 ads.fotosidan.se
 ads.friendfinder.com
 ads.gamecity.net
@@ -462,6 +461,7 @@ ads.lesbianpersonals.com
 ads.liberte.pl
 ads.linkedin.com
 ads.livenation.com
+ads.locksecures.com
 ads.ma7.tv
 ads.mail.bg
 ads.massinfra.nl
@@ -540,7 +540,6 @@ ads.sun.com
 ads.suomiautomaatti.com
 ads.supplyframe.com
 ads.syscdn.de
-ads.themovienation.com
 ads.thestar.com
 ads.thrillsaffiliates.com
 ads.tiktok.com
@@ -684,9 +683,7 @@ adserving.unibet.com
 adservingfront.com
 adservrs.com
 adservrs.com.edgekey.net
-adsfac.eu
 adsfac.net
-adsflowprime.top
 adshrink.it
 adside.com
 adsiduous.com
@@ -844,6 +841,7 @@ amazingcounters.com
 amazon-adsystem.com
 americash.com
 amidsttruly.com
+ampscamp.net
 amung.us
 analytics-fe.digital-cloud-prem.medallia.eu
 analytics-production.hapyak.com
@@ -965,6 +963,7 @@ b3.videoamp.com
 ba.afl.rakuten.co.jp
 backbeatmedia.com
 backtension.com
+bagave.com
 bagsurprise.com
 banik.redigy.cz
 banner.ambercoastcasino.com
@@ -1012,7 +1011,6 @@ bannerserver.com
 bannersng.yell.com
 bannerspace.com
 bannerswap.com
-bannertrack.net
 bannery.cz
 bannieres.wdmedia.net
 bans.bride.ru
@@ -1217,7 +1215,6 @@ cl.turkishairlines.com
 cl0udh0st1ng.com
 clck.ru
 clevernt.com
-click-1.pl
 click-v4.expclknb.com
 click.airmalta-mail.com
 click.aliexpress.com
@@ -1261,6 +1258,7 @@ click.v.visionlab.es
 click2freemoney.com
 click4.pro
 clickadddilla.com
+clickadu.io
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1269,7 +1267,6 @@ clickboothlnk.com
 clickbrokers.com
 clickcease.com
 clickdensity.com
-clickedyclick.com
 clickfuse.com
 clickhereforcellphones.com
 clickngo.top
@@ -1380,6 +1377,7 @@ counter.search.bg
 counter.snackly.co
 counting.kmindex.ru
 coupling-media.de
+cowbelltime.com
 coxmt.com
 cozyhillside.com
 cpalead.com
@@ -1463,6 +1461,7 @@ detectdiscovery.com
 dev.visualwebsiteoptimizer.com
 dewdroplagoon.com
 dianomi.com
+dicecandies.com
 didtheyreadit.com
 digestiondrawer.com
 digital-ads.s3.amazonaws.com
@@ -1759,7 +1758,6 @@ go.scmagazine.com
 go.xlirdr.com
 go2affise.com
 go2cloud.org
-godseedband.com
 goingplatinum.com
 goldstats.com
 gondolagnome.com
@@ -1849,6 +1847,7 @@ honorableland.com
 hostedads.realitykings.com
 hotjar.com
 hotlog.ru
+hotrank.com.tw
 hoverowl.com
 hs-analytics.net
 hs-banner.com
@@ -1876,6 +1875,7 @@ iad.anm.co.uk
 iadnet.com
 ibillboard.com
 icptrack.com
+icywinter.com
 id5-sync.com
 idealadvertising.net
 idevaffiliate.com
@@ -2016,13 +2016,11 @@ larati.net
 largebrass.com
 laughcloth.com
 launchbit.com
-layer-ad.de
 layer-ads.de
 lazybumblebee.com
 lbn.ru
 lead02.com
 leadboltads.net
-leadclick.com
 leadinfo.net
 leadingedgecash.com
 leadplace.fr
@@ -2073,7 +2071,6 @@ linkexchange.com
 linkprice.com
 linkrain.com
 linkreferral.com
-links-ranking.de
 links.email.crunchbase.com
 links.housekeep.com
 links.prosservice.fr
@@ -2085,7 +2082,6 @@ linkswaper.com
 linksynergy.com
 linktarget.com
 linkvertise.com
-liquidad.narrowcastmedia.com
 litix.io
 live.trmzum.com
 liveadexchanger.com
@@ -2134,14 +2130,12 @@ madcpms.com
 madinad.com
 madisonavenue.com
 madvertise.de
-magicadz.co
 magicaljoin.com
 magnetise.io
 magsrv.com
 mail-ads.google.com
 maliva-mcs.byteoversea.com
 maltiverse.lt.acemlnc.com
-manageadv.cblogs.eu
 mantisadnetwork.com
 mapcommand.com
 marinsm.com
@@ -2268,7 +2262,6 @@ monetizer101.com
 monkeyapes.com
 monsterpops.com
 mookie1.com
-moonwager.com
 mopub.com
 morefolks.com
 motionlessmeeting.com
@@ -2376,7 +2369,6 @@ oas.roanoke.com
 oas.toronto.com
 oas.uniontrib.com
 oascentral.chicagobusiness.com
-oascentral.fortunecity.com
 oascentral.register.com
 objecthero.com
 obs.sd4823.spglobal.com
@@ -2390,7 +2382,6 @@ offer.sponsorpay.com
 offerforge.com
 offermatica.com
 offers.gateway-lts450.com
-offers.ltsc-has.com
 offshoregeology.com
 ogads-pa.googleapis.com
 oglasi.posjetnica.com
@@ -2530,6 +2521,7 @@ plausible.avris.it
 plausibleio.workers.dev
 play4traffic.com
 playhaven.com
+playwarren.com
 pleasantpump.com
 plista.com
 plotrabbit.com
@@ -2632,6 +2624,7 @@ pureclarity.net
 pushengage.com
 pushno.com
 pushtrack.co
+pushub.net
 px.dynamicyield.com
 px.gfycat.com
 px.mountain.com
@@ -2657,6 +2650,7 @@ quinst.com
 quirkysugar.com
 quisma.com
 quizzicalzephyr.com
+r.brandreward.com
 r.drinksdirect.net
 r.logrocket.io
 r.marketing.dubaisothebys.com
@@ -2796,6 +2790,7 @@ runads.com
 rundsp.com
 ruralrobin.com
 s.adroll.com
+s.appreports.net
 s.dmmew.com
 s.uuidksinc.net
 s20dh7e9dh.com
@@ -2974,6 +2969,7 @@ spylog.com
 spyrep.com
 spywarelabs.com
 spywords.com
+srv.sayyac.com
 srvmath.com
 srvtrck.com
 srwww1.com
@@ -3203,7 +3199,6 @@ topstats.com
 totemcash.com
 touchclarity.com
 tour.brazzers.com
-tr.api.fanbyte.com
 tr.p.360.cn
 tracecontent.com
 track-eu.customer.io
@@ -3362,7 +3357,6 @@ url9467.comms-2.zoopla.co.uk
 urlcash.net
 us.a1.yimg.com
 userreplay.com
-users.maxcluster.net
 utils.mediageneral.net
 utl-1.com
 uu.domainforlite.com
